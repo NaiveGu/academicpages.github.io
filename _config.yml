@@ -84,12 +84,12 @@ author:
   avatar           : "xiaoyi.jpg"
   bio              : "Ph.D. Candidate in Operations Research at Georgia Tech"
   location         : "Atlanta, GA"
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : "xiaoyigu@gatech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : https://www.isye.gatech.edu/users/xiaoyi-gu
   bitbucket        :
   codepen          :
   dribbble         :
