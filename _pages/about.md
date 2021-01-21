@@ -12,4 +12,4 @@ I am a Ph.D. candidate in Operations Research at Georgia Tech ISYE. My current r
 
 Before coming to Georgia Tech, I graduated from Peking University with a B.S. degree in Applied Mathematics and a B.S. degree in Physics.
 
-Please find my [CV](https://raw.githubusercontent.com/NaiveGu/academicpages.github.io/master/files/CV.pdf) here.
+Please find my [CV](https://naivegu.github.io/master/files/CV.pdf) here.
