@@ -14,7 +14,7 @@ I earned my Ph.D. degree in Operations Research at Georgia Tech ISYE. I was grat
 
 Before studying at Georgia Tech, I graduated from Peking University with a B.S. degree in Applied Mathematics and a B.S. degree in Physics.
 
-Please find my [CV](https://xiaoyi-gu.github.io/files/CV_aca.pdf) here.
+Please find my [CV](https://xiaoyi-gu.github.io/files/Curriculum_Vitae_SIG.pdf) here.
 
 ## Publications
 
